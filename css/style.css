@@ -1,0 +1,40 @@
+body {
+	font-family: "Source Code Pro", monospace;
+	color: white;
+	/*overflow: hidden;*/
+	display: flex;
+}
+a {
+	/*text-decoration: none !important;*/
+	text-decoration: none;
+	color:#ffc66d;
+}
+a:hover
+{
+	color:#ffc66d;
+	text-decoration:none;
+}
+.first{
+	/*background-color:lavender;*/
+}
+.second{
+	margin: 50px;
+	padding-top: 20px;
+	background-color:#060008;
+
+}
+.level1{
+	margin-left: 30px;
+}
+.level2{
+	margin-left: 60px;
+}
+.level3{
+	margin-left: 60px;
+}
+.jsonkey{
+	color: #a5c261;
+}
+.jsonvalue{
+	color: #ffc66d;
+}

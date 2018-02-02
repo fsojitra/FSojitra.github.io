@@ -1,0 +1,40 @@
+var me = {
+  "name":"Foram Sojitra",
+  "email":"foram.sojitra295@gmail.com",
+  "city":"Rajkot, Gujarat",
+  "country":"India",
+  "github":"https://github.com/FSojitra",
+  "objective":"To learn working in a technical team full of new opportunities and healthy discusions.",
+  "personality":"Introvert", 
+  "education":{
+    "college": "Government Engineering College, Rajkot(GTU)",
+    "studyType": "BE(Computer Engineering)",
+    "passingYear": "july-2017",
+    "cgpa": "7.77"
+  },
+  "work":[{
+    "company":"Elluminati Inc",
+    "position":"Web developer",
+    "startDate": "2017-01-04",
+    "summary": "Back-end developer build back-end(REST API) for mobile app using Node.js, Expressjs and mongoDB"
+  }],
+  "skills":[{
+    "name":["c","html","css","javascript","ajax","node.js","expresjs","mongoDB","bootstrap"],
+    "level":"Little more than entry-level"
+  },
+  {
+    "name":["I can set my time of waking up once and after that i can wake up at that same time without setting alarm ;)"],
+    "level":"Master"
+  }],
+  "achievements":[
+    "Class monitor in 7th Grade",
+    "Got 98/100 in maths in 10th board",
+    "Got 98/100 in maths in 12th board(3rd sem)"
+  ],
+  "hobbies":[
+    "Wondering",
+    "Relaxing",
+    "Procrastinating everything on weekend",
+    "Watching movies, tv series and listening music"
+  ]
+}
