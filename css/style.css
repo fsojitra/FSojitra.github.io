@@ -2,7 +2,8 @@ body {
 	font-family: "Source Code Pro", monospace;
 	color: white;
 	background-color: #FF1744;
-	display: flex;
+	display: inline;
+	word-wrap: break-word;
 }
 a {
 	/*text-decoration: none !important;*/
